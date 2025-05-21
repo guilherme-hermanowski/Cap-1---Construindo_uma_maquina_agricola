@@ -21,31 +21,26 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
+
 # Projeto de Monitoramento de Solo com ESP32
 
 Este projeto simula a leitura de sensores de **umidade**, **temperatura**, **pH**, **fósforo** e **potássio** em um ambiente de cultivo, utilizando um ESP32. A lógica de controle foi desenvolvida em C++ e pode ser simulada no ambiente Wokwi.
-
-## 📁 Conteúdo do Projeto
-
-- `main.cpp`: Código fonte funcional em C++ para ESP32.
-- `circuito.png`: Imagem do circuito montado no simulador Wokwi.
-- `README.md`: Este documento explicativo.
 
 ---
 
 ## ⚙️ Componentes e Conexões
 
-- **Sensor Fosforo**:
+- **Sensor Fosforo - Botão Vermelho**:
   - Conexão: pino 23
-- **Sensor Potassio**:  
+- **Sensor Potassio - Botão Verde**:  
   - Conexão: pino 22
-- **Sensor LDR**: 
+- **Sensor Ph - Sensor LDR**: 
   - Conexão: 35
   - Responsável por simular a coleta do PH.
-- **Sensor DHT22**: 
+- **Sensor Temperatura e Umidade - Sensor DHT22**: 
   - Conexão: 15
   - Responsável por coleta de temperatura e umidade.
-- **LED (Relé simulado)**: 
+- **Sensor Bomba Irrigação - LED (Vermelho e Verde) (Relé simulado)**: 
   - Conexão: pino 2
   - Utilizado como atuador da bomba de irrigação.
   
@@ -89,9 +84,6 @@ log,68.32,92.14,5.89,23.55,35.7
 
 =====================================================================================================================
 ```
-
-
-
 
 ## 📋 Licença
 
