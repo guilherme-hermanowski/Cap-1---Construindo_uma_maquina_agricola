@@ -1,4 +1,4 @@
-# Cap 1 - Construindo uma máquina agrícola
+# Sistema de Sensores e Controle com ESP32
 
 # FIAP - Inteligência artificial e data science
 
