@@ -11,7 +11,7 @@
 Cap 1 - Construindo uma máquina agrícola
 
 ## Nome do grupo
-39
+25
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Guilherme Campos Hermanowski </a>
@@ -28,29 +28,13 @@ Cap 1 - Construindo uma máquina agrícola
 
 ## 📜 Justificativa do problema e descrição da solução proposta
 
-<br>
-
-
-</p>
-
-
-## 🔧 Componentes
-
-
-## 📁
-
-
 
 
 ## 🔧 Funcionamento
 
 
 ## 👨‍🎓 Divisão de responsabilidades:
-- Arquitetura (Pipeline e estrutura de features na AWS) : <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>
-- Coleta de dados: <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a> e <a href="https://www.linkedin.com/company/inova-fusca">Guilherme  Campos Hermanowski </a>
-- Banco de Dados: <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>
-- Treinamento de IA: <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a> 
-- Integração de Features: <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>, <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a>, <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a> e <a href="https://www.linkedin.com/company/inova-fusca">Guilherme  Campos Hermanowski </a>
+
 
 
 
